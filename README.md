@@ -102,3 +102,12 @@ This project is licensed under the MIT License.
 👨‍💻 Author
 Abhishek Jain
 📧 Email: apjain2004@gmail.com
+
+
+Check Out Here:  
+Zerodha(main page)
+https://stock-trading-dashboard-zerodha-bas.vercel.app/
+
+Kite
+https://stock-trading-dashboard-zerodha-bas.vercel.app/
+
