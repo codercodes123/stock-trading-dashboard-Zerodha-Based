@@ -108,6 +108,5 @@ Check Out Here:
 Zerodha(main page)
 https://stock-trading-dashboard-zerodha-bas.vercel.app/
 
-Kite
-https://stock-trading-dashboard-zerodha-bas.vercel.app/
+Kite:  https://stock-trading-dashboard-zerodha-bas-indol.vercel.app/
 
